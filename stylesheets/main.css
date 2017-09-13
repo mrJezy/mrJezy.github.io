@@ -30,7 +30,7 @@ ul {
   font-size: 150%;
   margin-left: 10%;
   color: white;
-  list-style-image: url('/stylesheets/kettlebell.png');
+  list-style-image: url('/stylesheets/kettlebell-icon.png');
 }
 
 ul:visited {
