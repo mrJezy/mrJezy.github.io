@@ -75,8 +75,8 @@ a:hover {
   background-image:url('/images/ts.png');
   background-repeat: no-repeat;
   position: fixed;
-  bottom: 2;
-  right: 2;
+  bottom: 10%;
+  right: 10%;
   opacity: 0.6; 
   width: 80%; 
   height: 80%; 
