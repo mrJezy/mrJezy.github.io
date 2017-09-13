@@ -25,7 +25,7 @@ h2 {
   font-style: italic;
 }
 
-ul {
+ul a{
   font-family: 'Roboto';
   font-size: 150%;
   margin-left: 10%;
@@ -96,7 +96,7 @@ a:hover {
 	transition: all .3s ease;
 }
 
-.cv{
+#cv a{
 	font-family: 'Roboto';
 	font-size: 100%;
 	color: white;
