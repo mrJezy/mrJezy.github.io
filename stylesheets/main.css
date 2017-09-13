@@ -29,6 +29,7 @@ ul {
   font-family: 'Roboto';
   font-size: 150%;
   margin-left: 10%;
+  margin-top: 5%;
   color: white;
   list-style-image: url('/stylesheets/Dumb-bells-01.png');
 }
