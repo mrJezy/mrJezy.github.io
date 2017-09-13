@@ -24,3 +24,8 @@ h2 {
   color: white;
   font-style: italic;
 }
+
+ul {
+  font-family: 'Roboto';
+  color: white;
+}
