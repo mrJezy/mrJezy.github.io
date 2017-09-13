@@ -68,7 +68,7 @@ a:hover {
 
 #links{
   position: fixed;
-  top: 0%;
-  right: 5%;
+  top: 1%;
+  right: 1%;
   z-index: -1;
 }
