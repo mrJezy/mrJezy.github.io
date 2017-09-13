@@ -7,9 +7,19 @@ body {
 }
 
 h1 {
-  font-family: 'Rock Salt';
+  font-family: 'Glegoo';
   font-size: 250%;
   text-align: center;
   margin-top: 100px;
   color: white;
+  letter-spacing: 2px;
+  font-weight: bold;
+}
+
+h2 {
+  font-family: 'Roboto';
+  font-size: 100%;
+  text-align: center;
+  color: white;
+  font-style: italic;
 }
