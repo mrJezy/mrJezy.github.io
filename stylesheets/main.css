@@ -96,7 +96,7 @@ a:hover {
 	transition: all .3s ease;
 }
 
-#cv{
+.cv{
 	font-family: 'Roboto';
 	font-size: 100%;
 	color: white;
