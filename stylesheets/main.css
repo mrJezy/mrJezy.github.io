@@ -84,11 +84,11 @@ a:hover {
 }
 
 #links:hover{
-  -webkit-filter: brightness(50%);
-	-moz-filter: brightness(50%);
-	-o-filter: brightness(50%);
-	-ms-filter: brightness(50%);
-	filter: brightness(50%);
+  -webkit-filter: brightness(0%);
+	-moz-filter: brightness(0%);
+	-o-filter: brightness(0%);
+	-ms-filter: brightness(0%);
+	filter: brightness(0%);
   -webkit-transition: all .3s ease;
     -moz-transition: all .3s ease;
     -o-transition: all .3s ease;
