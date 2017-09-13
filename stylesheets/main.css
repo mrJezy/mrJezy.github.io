@@ -33,6 +33,10 @@ ul {
   list-style-image: url('/stylesheets/kettlebell.png');
 }
 
+ul:visited {
+text-decoration: none;
+}
+
 #pattern{
   background-image:url('/stylesheets/scatterd3.png');
   position: fixed;
