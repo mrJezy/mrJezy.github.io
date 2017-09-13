@@ -27,8 +27,7 @@ h2 {
 
 ul {
 	list-style-type: none;
-	position: fixed;
-	top: 50%;
+	margin-top: 10%;
 }
 
 ul li a{
