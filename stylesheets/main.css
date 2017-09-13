@@ -31,7 +31,7 @@ ul {
   margin-left: 10%;
   margin-top: 5%;
   color: white;
-  list-style-image: url('/stylesheets/Dumb-bells-01.png');
+  list-style-type: none;
 }
 
 a:visited {
