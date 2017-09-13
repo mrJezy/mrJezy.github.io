@@ -57,8 +57,8 @@ a:hover {
 #logo{
   background-image:url('http://cdn.mysitemyway.com/etc-mysitemyway/icons/legacy-previews/icons/black-ink-grunge-stamps-textures-icons-sports-hobbies/042527-black-ink-grunge-stamp-textures-icon-sports-hobbies-people-man-runner.png');
   position: fixed;
-  top: 7%;
-  left: 60%;
+  bottom: 7%;
+  right: 7%;
   opacity: 0.8; 
   width: 80%; 
   height: 80%;
