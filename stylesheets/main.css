@@ -27,13 +27,15 @@ h2 {
 
 ul {
 	list-style-type: none;
+	position: fixed;
+	top: 50%;
 }
 
 ul li a{
   font-family: 'Roboto';
   font-size: 150%;
   margin-left: 10%;
-  margin-top: 10%;
+  margin-top: 5%;
   color: white;
 }
 
