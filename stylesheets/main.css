@@ -31,7 +31,7 @@ ul {
 }
 
 #pattern{
-  background-image: scatterd3.png);
+  background-image: 'stylesheets/scatterd3.png');
   position: fixed;
   top: 60%;
   opacity: 0.8; 
