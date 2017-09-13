@@ -30,11 +30,15 @@ ul {
   font-size: 150%;
   margin-left: 10%;
   color: white;
-  list-style-image: url('/stylesheets/kettlebell-icon.png');
+  list-style-image: url('/stylesheets/dumbbell-icon2.png');
 }
 
 a:visited {
-color: white;
+  color: white;
+}
+
+a:hover {
+  color: #4CA1AF;
 }
 
 #pattern{
