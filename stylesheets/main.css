@@ -31,8 +31,13 @@ ul {
 }
 
 #pattern{
-  background: url(http://research.kraeutli.com/wp-content/uploads/2013/11/artist-bubbles-closeup-1024x573.png);
-  background-repeat: no-repeat;
+  background-image: url(http://research.kraeutli.com/wp-content/uploads/2013/11/artist-bubbles-closeup-1024x573.png);
   position: fixed;
-  z-index: 2;
+  opacity: 0.8; 
+  left: 0px; 
+  top: 0px; 
+  width: 100%; 
+  height: 100%; 
+  z-index: -1;
+  background-repeat: no-repeat;
 } 
