@@ -107,3 +107,11 @@ a:hover {
 	top: 1%;
 	right: 5%;
 }
+
+#cv a:visited {
+  color: white;
+}
+
+#cv a:hover {
+  color: #4CA1AF;
+}
