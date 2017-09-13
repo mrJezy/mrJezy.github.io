@@ -29,3 +29,9 @@ ul {
   font-family: 'Roboto';
   color: white;
 }
+
+#pattern{
+  background: url(http://research.kraeutli.com/wp-content/uploads/2013/11/artist-bubbles-closeup-1024x573.png);
+  background-repeat: no-repeat;
+  background-position: right bottom;
+} 
