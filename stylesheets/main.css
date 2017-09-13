@@ -30,10 +30,11 @@ ul {
   font-size: 150%;
   margin-left: 10%;
   color: white;
+  list-style-image: url('/stylesheets/kettlebell.png');
 }
 
 #pattern{
-  background-image:url("/stylesheets/scatterd3.png");
+  background-image:url('/stylesheets/scatterd3.png');
   position: fixed;
   top: 65%;
   left: 25%;
