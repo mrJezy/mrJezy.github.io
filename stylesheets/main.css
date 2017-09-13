@@ -33,7 +33,7 @@ ul {
   list-style-image: url('/stylesheets/kettlebell-icon.png');
 }
 
-ul:visited {
+a:visited {
 text-decoration: none;
 }
 
