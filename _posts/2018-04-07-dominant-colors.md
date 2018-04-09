@@ -7,9 +7,7 @@ header:
 excerpt: "Movies, Dominant Colors, k-means"
 ---
 
-# Dominant Colors extraction from Movie Posters
-
-I wrote a shiny app to extract dominant colors from movie posters, using k-means clustering. You can find the application here: [https://datafitness.shinyapps.io/dominant_colors/]
+I wrote a shiny app to extract dominant colors from movie posters, using k-means clustering. You can find the application here: [Dominant Colors](https://datafitness.shinyapps.io/dominant_colors/)
 
 ## The code for the application:
 
