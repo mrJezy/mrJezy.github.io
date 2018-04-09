@@ -5,6 +5,7 @@ tags: [twitter, sentiment analysis]
 header:
   image: "/images/bckg.png"
 excerpt: "Twitter, Sentiment Analysis"
+classes: wide
 ---
 
 There were a couple of contradictory [political events](http://www.france24.com/en/20170410-hungary-president-signs-law-threatening-soros-university) in Hungary lately and the below code tries to capture the reaction of the public by applying sentiment analysis on tweets from Twitter using 2 search words:  

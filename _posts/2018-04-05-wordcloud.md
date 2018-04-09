@@ -5,6 +5,7 @@ tags: [wordcloud, text mining, NLP, news]
 header:
   image: "/images/bckg.png"
 excerpt: "Wordcloud, Text Mining, NLP, news"
+classes: wide
 ---
 
 I wrote a shiny app to extract the words from leading hungarian online news sites and plot a wordcloud from them. You can find the application here: [Wordcloud](https://datafitness.shinyapps.io/wordcloud/)

@@ -5,6 +5,7 @@ tags: [movies, dominant colors, k-means]
 header:
   image: "/images/bckg.png"
 excerpt: "Movies, Dominant Colors, k-means"
+classes: wide
 ---
 
 I wrote a shiny app to extract dominant colors from movie posters, using k-means clustering. You can find the application here: [Dominant Colors](https://datafitness.shinyapps.io/dominant_colors/)
